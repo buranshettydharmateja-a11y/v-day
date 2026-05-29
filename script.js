@@ -14,7 +14,7 @@ const noMessages = [
     "Are you positive? 🤔",
     "you love me right😉",
     "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
+    "If you don't say thanks, I will be really sad...",
     "I will be very sad... 😢",
     "Please??? 💔",
     "Don't do this to me...",
